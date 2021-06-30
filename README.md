@@ -12,6 +12,7 @@ I'm 17 years old, live and studying in France. I'm learning Maths, Chemical Phys
 I've worked on :
 
 - [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
+- [PythonTools](https://github.com/Mino1289/PythonTools " ") contain a lot python scripts with many features.
 - [Omega](https://github.com/Mino1289/Omega " ") is my own fork from [Omega-Numworks/Omega](https://github.com/Omega-Numworks/Omega " ").
 - [discord-js-bot](https://github.com/Mino1289/discord-js-bot " ") is a template repository for creating Discord Bot using [discord.js](https://discord.js.org " ").
 
@@ -25,4 +26,4 @@ I've worked on :
 
 You can contact me using
 
-- Discord Mino#1289
+- Discord `Mino#1289`
