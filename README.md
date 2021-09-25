@@ -12,7 +12,7 @@ I'm 17 years old, live and studying in France. I'm learning Maths, Chemical Phys
 I've worked on :
 
 - [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
-- [Omega](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
+- [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
 - [discord-js-bot](https://github.com/Mino1289/discord-js-bot " ") is a template repository for creating Discord Bot using [discord.js](https://discord.js.org " ").
 
 ## Main languages
