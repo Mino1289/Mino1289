@@ -5,24 +5,27 @@ Here you can find all the work I've done so far.
 
 ## About me
 
-I'm 17 years old, live and studying in France. I'm learning Maths, Chemical Physics and computer science by my own.
+I'm 18 years old and live in France, I'm studying at [UTBM](https://utbm.fr/ " ").  
+I'm learning Maths, Chemical Physics and Computer Science.
 
 ## Main projects
 
 I've worked on :
 
 - [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
-- [Omega](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
-- [discord-js-bot](https://github.com/Mino1289/discord-js-bot " ") is a template repository for creating Discord Bot using [discord.js](https://discord.js.org " ").
+- [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
+
+
+I will add the projects I'm working on at UTBM
 
 ## Main languages
 
 - Python
 - NodeJS
-- Beginner in C++
+- Beginner in C/C++
 
 ## Contact
 
 You can contact me using
 
-- Discord `Mino#1289`
+- On Discord `Mino#1289`
