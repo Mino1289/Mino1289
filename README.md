@@ -16,7 +16,7 @@ I've worked on :
 - [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
 
 
-I will add the projects I'm working on at UTBM
+I will add the projects I'm working on at UTBM.
 
 ## Main languages
 
