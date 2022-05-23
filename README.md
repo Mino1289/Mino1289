@@ -13,7 +13,7 @@ I'm learning Maths, Chemical Physics and Computer Science.
 I've worked on :
 
 - [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
-- [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/Lauryy06/Upsilon " ").
+- [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/UpsilonNumworks/Upsilon. " ").
 
 
 I will add the projects I'm working on at UTBM.
@@ -22,10 +22,10 @@ I will add the projects I'm working on at UTBM.
 
 - Python
 - NodeJS
-- Beginner in C/C++
+- C/C++
 
 ## Contact
 
 You can contact me using
 
-- On Discord `Mino#1289`
+- Discord `Mino#1289`
