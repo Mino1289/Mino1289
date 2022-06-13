@@ -17,12 +17,16 @@ I've worked on :
 
 
 I will add the projects I'm working on at UTBM.
+## UTBM's Projects :
+- [Boggle](https://github.com/Mino1289/Boggle " "), a game-console to play the Boggle (find words using letter in a grid).
+
 
 ## Main languages
 
 - Python
-- NodeJS
 - C/C++
+- NodeJS
+
 
 ## Contact
 
