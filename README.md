@@ -12,8 +12,9 @@ I'm learning Maths, Chemical Physics and Computer Science.
 
 I've worked on :
 
-- [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
 - [Upsilon](https://github.com/Mino1289/Upsilon " ") is my own fork from [Upsilon](https://github.com/UpsilonNumworks/Upsilon " ").
+- [Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ") which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
+- [Mathsup](https://github.com/Mino1289/Mathsup " ") Is a WIP project to interact easily between Maths Objects (Matrices, Polynomials, etc..). It can be view as a better implementation of Python-for-Numworks, because many function are in both (but in C).
 
 
 I will add the projects I'm working on at UTBM.
@@ -24,7 +25,7 @@ I will add the projects I'm working on at UTBM.
 ## Main languages
 
 - Python
-- C/C++
+- C/(C++)
 - NodeJS
 
 
