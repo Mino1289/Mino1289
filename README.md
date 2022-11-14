@@ -35,5 +35,6 @@ You can contact me using
 - Discord `Mino#1289`.
 - Create an Issue if needed.
 
-![Mino1289's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1289&show_icons=true&theme=transparent&count_private=true)
+![Mino1289's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1289&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
+
 
