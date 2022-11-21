@@ -21,6 +21,7 @@ I've worked on :
 - **[Boggle](https://github.com/Mino1289/Boggle " ")**, a game-console to play the Boggle (find words using letter in a grid) in C (UV: IF2).
 - **[BeerAdvisor](https://github.com/Mino1289/BeerAdvisor " ")**, a website / social media about beers, using html, php and SQL (UV: IF3E).
 - **[Project-LO21_A22](https://github.com/Mino1289/Project-LO21_A22 " ")**, it's a simplified version of genetic algorithms, which is one of the approaches to solve optimization problems (UV: LO21).
+- **[Project-LP25_A22](https://github.com/Mino1289/Project-LP25_A22 " ")**, a multi-threaded email parser (UV: LP25).
 - **[lo21](https://github.com/Mino1289/lo21 " ")**, a library to interact with all data structures studied in LO21 (Not a Project).
 
 
