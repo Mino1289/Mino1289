@@ -5,7 +5,7 @@ Here you can find all the work I've done so far.
 
 ## About me
 
-I'm 18 years old and live in France, I'm studying at [UTBM](https://utbm.fr/ " ").  
+I'm 19 years old and live in France, I'm studying at [UTBM](https://utbm.fr/ " ").  
 I'm learning Maths and Computer Science.
 
 ## Main projects
