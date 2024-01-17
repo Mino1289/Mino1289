@@ -34,10 +34,7 @@ I've worked on :
 
 ## Contact
 
-You can contact me using
-
-- Discord `Mino#1289`.
-- Create an Issue if needed.
+You can contact me by creating an Issue if needed.
 
 
 ## Stats
