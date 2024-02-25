@@ -41,4 +41,7 @@ You can contact me by creating an Issue if needed.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mino1289&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 
+## Certifications
 
+- [NVidia CUDA Certification - Getting Started with Accelerated Computing in CUDA C/C++](https://courses.nvidia.com/certificates/9bdce37bd42f4637a27a97455686b202/)
+- [NVidia CUDA Certification - Scaling Workloads Across Multiple GPUs with CUDA C++](https://courses.nvidia.com/certificates/1fe3cb69ef0c4907bdeb4068fcf1cd63/)
