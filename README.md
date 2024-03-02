@@ -5,7 +5,7 @@ Here you can find all the work I've done so far.
 
 ## About me
 
-I'm a 19 years old french student, studying at [UTBM](https://utbm.fr/ " ").  
+I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").  
 I'm learning Maths and Computer Science.
 
 ## Main projects
