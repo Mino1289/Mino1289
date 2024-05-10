@@ -24,6 +24,7 @@ I've worked on :
 - **[Project-LO21_A22](https://github.com/Mino1289/Project-LO21_A22 " ")**, it's a simplified version of genetic algorithms, which is one of the approaches to solve optimization problems (UV: LO21).
 - **[Project-LP25_A22](https://github.com/Mino1289/Project-LP25_A22 " ")**, a multi-threaded email parser (UV: LP25).
 - **[TuringMachine-AP4B_A23](https://github.com/Mino1289/AP4B_TuringMachine " ")**, TuringMachine game implementation in Java (UV: AP4B).
+- **[W-WE4A_P24](https://github.com/Mino1289/WE4A-W " ")**, a social network in php W: "winners!" (UV: WE4A).  
 - **[lo21](https://github.com/Mino1289/lo21 " ")**, a library to interact with all data structures studied in LO21 (Not a Project).
 
 
