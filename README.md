@@ -25,9 +25,8 @@ I've worked on :
 - **[Project-LP25_A22](https://github.com/Mino1289/Project-LP25_A22 " ")**, a multi-threaded email parser (UV: LP25).
 - **[Project-AP4A_A23](https://github.com/Mino1289/AP4A_Project " ")**, a small sensor manager app in C++ (UV: AP4A).
 - **[TuringMachine-AP4B_A23](https://github.com/Mino1289/AP4B_TuringMachine " ")**, TuringMachine game implementation in Java (UV: AP4B).
-- **[W-WE4A_P24](https://github.com/Mino1289/WE4A-W " ")**, a social network in php W: "winners!" (UV: WE4A).  
-- **[lo21](https://github.com/Mino1289/lo21 " ")**, a library to interact with all data structures studied in LO21 (Not a Project).
-
+- **[W-WE4A_P24](https://github.com/Mino1289/WE4A-W " ")**, a social network in php W: "winners!" (UV: WE4A).
+- **[Kareer-WE4B_P24](https://github.com/Mino1289/Kareer " ")**, a multi-company job board, HR side & Job seeker side (UV: WE4B)
 
 ## 📚 Main languages
 
