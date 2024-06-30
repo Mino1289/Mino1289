@@ -27,6 +27,7 @@ I've worked on :
 - **[TuringMachine-AP4B_A23](https://github.com/Mino1289/AP4B_TuringMachine " ")**, TuringMachine game implementation in Java (UV: AP4B).
 - **[W-WE4A_P24](https://github.com/Mino1289/WE4A-W " ")**, a social network in php W: "winners!" (UV: WE4A).
 - **[Kareer-WE4B_P24](https://github.com/Mino1289/Kareer " ")**, a multi-company job board, HR side & Job seeker side (UV: WE4B)
+- **[TSP-Methods_P24](https://github.com/Mino1289/IT45_TSP " ")**, different solving method for the Traveling Salesman Problem (UV: IT45)
 
 ## 📚 Main languages
 
