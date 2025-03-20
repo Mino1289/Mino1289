@@ -16,7 +16,7 @@ I've worked on :
 - **[Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks " ")** which contain a lot of programs in python for the [Numworks](https://numworks.com " ") calculator.
 - **[Mathsup](https://github.com/Mino1289/Mathsup " ")** Is a WIP project to interact easily between Maths Objects (Matrices, Polynomials, etc..). It can be view as a better implementation of Python-for-Numworks, because many function are in both (but in C).
 - **[container](https://github.com/Mino1289/container " ")** Is a WIP management tool that aims to improve loading/unloading containers from ships.
-
+- **[MNIST](https://github.com/Mino1289/MNIST " ")** Is my current work on basic IA understanding, with a demo.
 
 ## UTBM's Projects :
 - **[Boggle](https://github.com/Mino1289/Boggle " ")**, a game-console to play the Boggle (find words using letter in a grid) in C (UV: IF2).
