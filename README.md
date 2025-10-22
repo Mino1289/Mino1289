@@ -17,6 +17,7 @@ I've worked on :
 - **[Mathsup](https://github.com/Mino1289/Mathsup " ")** Is a WIP project to interact easily between Maths Objects (Matrices, Polynomials, etc..). It can be view as a better implementation of Python-for-Numworks, because many function are in both (but in C).
 - **[container](https://github.com/Mino1289/container " ")** Is a WIP management tool that aims to improve loading/unloading containers from ships.
 - **[MNIST](https://github.com/Mino1289/MNIST " ")** Is my current work on basic IA understanding, with a demo.
+- **[video-seg-inpainting](https://github.com/Mino1289/video-seg-inpainting " ")**, a project: human remover from video using simple image segmentation model and basic computer vision algorithms, might be improved in another project.
 
 ## UTBM's Projects :
 - **[Boggle](https://github.com/Mino1289/Boggle " ")**, a game-console to play the Boggle (find words using letter in a grid) in C (UV: IF2).
@@ -28,6 +29,7 @@ I've worked on :
 - **[W-WE4A_P24](https://github.com/Mino1289/WE4A-W " ")**, a social network in php W: "winners!" (UV: WE4A).
 - **[Kareer-WE4B_P24](https://github.com/Mino1289/Kareer " ")**, a multi-company job board, HR side & Job seeker side (UV: WE4B)
 - **[TSP-Methods_P24](https://github.com/Mino1289/IT45_TSP " ")**, different solving method for the Traveling Salesman Problem (UV: IT45)
+- **[AI-Training](https://github.com/DE50-AI-Training/ " ")**, "What AI should learn from software engineering", an UI-based AI training mainly focused for non-technical people. You have Data ? -> Train your own model easily to learn / predict from your data.
 
 ## 📚 Main languages
 
