@@ -36,5 +36,7 @@ I've worked on :
 
 ## Certifications
 
-- [NVidia CUDA Certification - Getting Started with Accelerated Computing in CUDA C/C++](https://courses.nvidia.com/certificates/9bdce37bd42f4637a27a97455686b202/)
-- [NVidia CUDA Certification - Scaling Workloads Across Multiple GPUs with CUDA C++](https://courses.nvidia.com/certificates/1fe3cb69ef0c4907bdeb4068fcf1cd63/)
+- [Nvidia CUDA Certification - Getting Started with Accelerated Computing in CUDA C/C++](https://courses.nvidia.com/certificates/9bdce37bd42f4637a27a97455686b202/)
+- [Nvidia CUDA Certification - Scaling Workloads Across Multiple GPUs with CUDA C++](https://courses.nvidia.com/certificates/1fe3cb69ef0c4907bdeb4068fcf1cd63/)
+- [Nvidia AI Certification - Getting Started with Deep Learning](https://learn.nvidia.com/certificates?id=Y0MTCnlaRnKMNIVcHh8IPQ)
+
