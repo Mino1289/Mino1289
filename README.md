@@ -5,10 +5,10 @@ Here you can find all the work I've done so far.
 
 ## About me
 
-I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ").  
-I'm learning Maths and Computer Science.
+I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/ " ") and [UQAC](https://uqac.ca " ").
+Currently pursuing a Master's degree in Software Engineering with a specialty in Artificial Intelligence.
 
-## Main projects
+## Main and personnal projects
 
 I've worked on :
 
@@ -17,9 +17,10 @@ I've worked on :
 - **[Mathsup](https://github.com/Mino1289/Mathsup " ")** Is a WIP project to interact easily between Maths Objects (Matrices, Polynomials, etc..). It can be view as a better implementation of Python-for-Numworks, because many function are in both (but in C).
 - **[container](https://github.com/Mino1289/container " ")** Is a WIP management tool that aims to improve loading/unloading containers from ships.
 - **[MNIST](https://github.com/Mino1289/MNIST " ")** Is my current work on basic IA understanding, with a demo.
+- **[TSP_Little](https://github.com/Mino1289/TSP_Little " ")**, Personnal work based on a course project TSP-Methods (see below).
 - **[video-seg-inpainting](https://github.com/Mino1289/video-seg-inpainting " ")**, a project: human remover from video using simple image segmentation model and basic computer vision algorithms, might be improved in another project.
 
-## UTBM's Projects :
+## Class Projects :
 - **[Boggle](https://github.com/Mino1289/Boggle " ")**, a game-console to play the Boggle (find words using letter in a grid) in C (UV: IF2).
 - **[BeerAdvisor](https://github.com/Mino1289/BeerAdvisor " ")**, a website / social media about beers, using html, php and SQL (UV: IF3E).
 - **[Project-LO21_A22](https://github.com/Mino1289/Project-LO21_A22 " ")**, it's a simplified version of genetic algorithms, which is one of the approaches to solve optimization problems (UV: LO21).
