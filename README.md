@@ -13,11 +13,8 @@ Currently pursuing a Master's degree in Software Engineering with a specialty in
 I've worked on :
 
 - **[Upsilon](https://github.com/Mino1289/Upsilon)** is my own fork from **[Upsilon](https://github.com/UpsilonNumworks/Upsilon)**.
-- **[Python-for-Numworks](https://github.com/Mino1289/Python-for-Numworks)** which contain a lot of programs in python for the [Numworks](https://numworks.com) calculator.
-- **[Mathsup](https://github.com/Mino1289/Mathsup)** Is a WIP project to interact easily between Maths Objects (Matrices, Polynomials, etc..). It can be view as a better implementation of Python-for-Numworks, because many function are in both (but in C).
-- **[container](https://github.com/Mino1289/container)** Is a WIP management tool that aims to improve loading/unloading containers from ships.
 - **[MNIST](https://github.com/Mino1289/MNIST)** Is my current work on basic IA understanding, with a demo.
-- **[TSP_Little](https://github.com/Mino1289/TSP_Little)**, Personnal work based on a course project TSP-Methods (see below).
+- **[TSP_Little](https://github.com/Mino1289/TSP_Little)**, Personnal work based on a course project TSP-Methods (see below). Improved branch & bound algorithm.
 - **[video-seg-inpainting](https://github.com/Mino1289/video-seg-inpainting)**, a project: human remover from video using simple image segmentation model and basic computer vision algorithms, might be improved in another project.
 - **[Hackathon ConformIT x UQAC](https://github.com/Leon-afk1/Hackathon_CTI_UQAC)**, code winning 2nd position and 1000$. An intelligent conversational system combining a RAG (Retrieval-Augmented Generation) chatbot and an interactive dashboard.
 
