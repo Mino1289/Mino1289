@@ -5,7 +5,7 @@ Here you can find all the work I've done so far.
 
 ## About me
 
-I'm a 20 years old french student, studying at [UTBM](https://utbm.fr/) and [UQAC](https://uqac.ca).
+I'm a 22 years old french student, studying at [UTBM](https://utbm.fr/) and [UQAC](https://uqac.ca).
 Currently pursuing a Master's degree in Software Engineering with a specialty in Artificial Intelligence.
 
 ## Main and personnal projects
