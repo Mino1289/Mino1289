@@ -16,7 +16,10 @@ I've worked on :
 - **[MNIST](https://github.com/Mino1289/MNIST)** Is my current work on basic IA understanding, with a demo.
 - **[TSP_Little](https://github.com/Mino1289/TSP_Little)**, Personnal work based on a course project TSP-Methods (see below). Improved branch & bound algorithm.
 - **[video-seg-inpainting](https://github.com/Mino1289/video-seg-inpainting)**, a project: human remover from video using simple image segmentation model and basic computer vision algorithms, might be improved in another project.
-- **[Hackathon ConformIT x UQAC](https://github.com/Leon-afk1/Hackathon_CTI_UQAC)**, code winning 2nd position and 1000$. An intelligent conversational system combining a RAG (Retrieval-Augmented Generation) chatbot and an interactive dashboard.
+- **[Hackathon ConformIT x UQAC](https://github.com/Mino1289/Hackathon_CTI_UQAC)**, code winning 2nd position and 1000$. An intelligent conversational system combining a RAG (Retrieval-Augmented Generation) chatbot and an interactive dashboard.
+- **[MI7_seg_impaint_deepfake](https://github.com/Mino1289/MI7_seg_impaint_deepfake)**, a complete deep learning PyTorch pipeline for human detection, tracking, inpainting, and deepfaking in real-time video streams.
+- **[CarScan](https://github.com/Mino1289/CarScan)**, an application for used car dealers using Computer Vision, ML, and LLMs (RAG) to detect body damage, analyze history, and estimate resale value.
+- **[SideLine-AI](https://github.com/Mino1289/SideLine-AI)**, an advanced computer vision pipeline for ice hockey tactical analysis, combining YOLO segmentation, ByteTrack multi-object tracking, and player OCR.
 
 ## Class Projects :
 - **[Boggle](https://github.com/Mino1289/Boggle)**, a game-console to play the Boggle (find words using letter in a grid) in C (UV: IF2).
